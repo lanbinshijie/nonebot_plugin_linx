@@ -38,9 +38,23 @@ if __name__ == "__main__":
 3. 运行 `nb run` 和 驱动器（如`go-cqhttp.exe`）
 
 # 使用截图
+
 ![每日一言](https://cdn.jsdelivr.net/gh/lanbinshijie/image-cdn/picgo-img/202210222354143.png)
 
 ![今日人品](https://cdn.jsdelivr.net/gh/lanbinshijie/image-cdn/picgo-img/202210222356821.png)
 
 ![帮助页面](https://cdn.jsdelivr.net/gh/lanbinshijie/image-cdn/picgo-img/202210222357781.png)
 
+
+# 投喂&赞助
+小本经营，开发不易，如果可以的话请给蓝冰打赏一杯可乐吧w
+
+![微信扫码](https://cdn.jsdelivr.net/gh/lanbinshijie/image-cdn/picgo-img/202210230029302.png)
+
+|  名称   | 金额  | 日期|
+|  ----  | ----  | ---- |
+| 蓝冰世界  | 20.00元 | 2022年10月22日 |
+| 蓝冰世界  | 20.00元 | 2022年10月23日 |
+| 感谢 | 以上 | 大大
+
+***TIPS：打赏列表每周更新一次***
