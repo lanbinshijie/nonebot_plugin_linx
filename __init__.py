@@ -74,3 +74,20 @@ async def _():
     await dailyWord.send(Message(resd))
 
         
+help = on_command("help",aliases={"help",}, priority=1)
+@help.handle()
+async def _():
+    res = requests.get("http://api.imfurry.cn/linx/notice.php")
+    res_text = res.json()
+    text = res_text["notice"]
+    message = "[CQ:face,id=54] Linx 群聊管家 [CQ:face,id=54]" + "\n"
+    message += "==================" + "\n"
+    message += "[CQ:face,id=55] 版本：Linx 1.0" + "\n"
+    message += "[CQ:face,id=66] 1. help - 查看帮助" + "\n"
+    message += "[CQ:face,id=66] 2. 每日一句 - 获取名言" + "\n"
+    message += "[CQ:face,id=72] 3. 作者：Lanbin" + "\n"
+    message += "[CQ:face,id=69] 4. GitHub开源插件" + "\n"
+    message += "==================" + "\n"
+    message += "[CQ:face,id=113] 最新公告 [CQ:face,id=113]" + "\n"
+    message += text + "\n"
+    await help.send(Message(message))
