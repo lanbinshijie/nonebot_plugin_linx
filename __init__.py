@@ -1,9 +1,9 @@
 import os
-from nonebot import get_driver
+# from nonebot import get_driver
 from nonebot import on_command
 from nonebot.adapters.onebot.v11 import Message
 
-global_config = get_driver().config
+# global_config = get_driver().config
 
 # 程序代码
 import requests
@@ -30,9 +30,6 @@ def checkKeys():
     return len(API_APP_ID) == 0
 
 def addMenu(text):
-    text += "==============\n"
-    text += "Linx机器人\n"
-    text += "1.输入.help查看帮助\n"
     return text
 
 # == 初始化代码 =============
