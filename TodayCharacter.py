@@ -2,7 +2,6 @@ from nonebot import on_command
 from nonebot.adapters.onebot.v11 import Message
 from nonebot.adapters.onebot.v11 import Bot, Event
 
-# from llibs import compile
 
 import random
 from datetime import date
