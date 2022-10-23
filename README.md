@@ -1,10 +1,9 @@
 <center>
 <a href="//v2.nonebot.dev"><img src="https://cdn.jsdelivr.net/gh/lanbinshijie/image-cdn/picgo-img/202210231050349.png"></a>
-![TT](https://img.shields.io/badge/Developer-Lanbin-red)
 </center>
 
 <h1>Linx，一个Nonebot插件</h1>
-
+![TT](https://img.shields.io/badge/Developer-Lanbin-red)
 Linx，你的群聊小管家
 
 # 使用教程
