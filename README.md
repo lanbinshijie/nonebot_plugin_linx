@@ -1,6 +1,6 @@
 <center>
 <a href="//v2.nonebot.dev"><img src="https://cdn.jsdelivr.net/gh/lanbinshijie/image-cdn/picgo-img/202210231050349.png"></a>
-![](https://img.shields.io/badge/Developer-Lanbin-red)
+![TT](https://img.shields.io/badge/Developer-Lanbin-red)
 </center>
 
 <h1>Linx，一个Nonebot插件</h1>
