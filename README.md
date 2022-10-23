@@ -1,8 +1,7 @@
+<center><a href="//v2.nonebot.dev"><img src="https://cdn.jsdelivr.net/gh/lanbinshijie/image-cdn/picgo-img/202210231050349.png"></a></center>
 # Linx，一个Nonebot插件
-<img src="https://img.shields.io/badge/Developer-Lanbin-red">
-<img src="https://img.shields.io/badge/Framework-NonebotV2-blue">
-<img src="https://img.shields.io/badge/Version-Dev1.0.0-success">
-<a href="//v2.nonebot.dev"><img src="https://cdn.jsdelivr.net/gh/lanbinshijie/image-cdn/picgo-img/202210231050349.png"></a>
+<img src="https://img.shields.io/badge/Developer-Lanbin-red"><img src="https://img.shields.io/badge/Framework-NonebotV2-blue"><img src="https://img.shields.io/badge/Version-Dev1.0.0-success">
+
 
 Linx，你的群聊小管家
 
